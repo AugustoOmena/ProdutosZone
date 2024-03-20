@@ -1,6 +1,6 @@
 ﻿namespace ProdutosZone.Models
 {
-    public class Produto
+    public class Produto : BaseEntity
     {
 
         [MaxLength(2500)]
@@ -12,6 +12,9 @@
         public int CategoryId { get; set; }
 
         public Category Category { get; set; } = default!;
+
+        [MaxLength(50)]
+        public string WhatsLink { get; set; } = string.Empty;
 
         public ICollection<ProdutoDevice> Devices { get; set; } = new List<ProdutoDevice>();
     }
