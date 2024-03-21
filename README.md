@@ -10,7 +10,7 @@
 
 #### .Net MVC Project Creation
 - **DevCreed reference link:** https://www.youtube.com/playlist?list=PL62tSREI9C-cQ21T5HIWqqBOHQiNMOhBG
-- classes (1 to 6) + Adaptations
+- classes (1 to 8) + Adaptations
   
 - **Reason for choice:** This video shows the step-by-step process for creating the Crud model of the games (with storing the images in a folder in the directory) using .Net 8.
 
