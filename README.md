@@ -1,5 +1,5 @@
 ### Current State
-<img style="width:400px" src="https://github.com/AugustoOmena/ProdutosZone/assets/122471298/c19c2677-9c5b-4595-ae86-34dca8580956">
+<img style="width:400px" src="https://github.com/AugustoOmena/ProdutosZone/assets/122471298/3b706151-1b1d-45bd-88dc-50efba5814ca">
 
 
 ### Creating Store based on GameZone
